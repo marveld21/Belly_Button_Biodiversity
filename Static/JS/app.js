@@ -134,12 +134,13 @@ function init() {
         mode: "gauge+number",
         gauge: {
           axis: {range: [0,10]},
+          'bar': {'color': "black"},
           steps: [
-            {range: [0,2], color:"#ADFFBE"},
-            {range: [2,4], color:"#57F0A2"},
-            {range: [4,6], color:"#1DFD95"},
-            {range: [6,8], color:"#6AEA89"},
-            {range: [8,10], color:"#64BE73"}
+            {range: [0,2], color:"#EE1010"},
+            {range: [2,4], color:"#F59002"},
+            {range: [4,6], color:"#EAFF00"},
+            {range: [6,8], color:"#5FF50E"},
+            {range: [8,10], color:"#10C909"}
           ]
         }
       };
