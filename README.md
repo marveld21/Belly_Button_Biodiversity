@@ -10,3 +10,6 @@ The bubble chart shows details on hover and provides more in depth analysis.
 ![Bubble Chart](https://github.com/marveld21/Belly_Button_Biodiversity/blob/main/Images/bubbles.PNG)
 The gauge chart shows how often the belly button is washed.
 ![Gauge Chart](https://github.com/marveld21/Belly_Button_Biodiversity/blob/main/Images/gauge.PNG)
+
+Full Site
+![site](https://github.com/marveld21/Belly_Button_Biodiversity/blob/main/Images/site.PNG)
